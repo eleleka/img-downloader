@@ -1,0 +1,15 @@
+{
+  "name": "save-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "image-downloader": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Leo",
+  "license": "ISC"
+}
